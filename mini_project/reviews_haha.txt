@@ -1,0 +1,6 @@
+Restaurant: haha
+Review: yadak
+Rating: 1
+Restaurant: haha
+Review: mai aroi
+Rating: 1
